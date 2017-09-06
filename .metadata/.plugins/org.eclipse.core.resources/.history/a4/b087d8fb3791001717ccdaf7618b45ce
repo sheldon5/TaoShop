@@ -1,0 +1,11 @@
+package com.taotao.service.impl;
+
+import com.taotao.service.ItemService;
+
+@Service
+public class ItemServiceImpl extends ItemService {
+	
+	private TbItemMapper itemMapper;
+	
+
+}
